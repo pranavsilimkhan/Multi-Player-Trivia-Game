@@ -300,4 +300,4 @@
       "more_info": "Degaussing is the process of reducing a magnetic field. It can be used to reset the magnetic field of a CRT monitor or to destroy the data on a magnetic storage devices. A CRT monitor displays images by firing electrons through a cathode ray tube (CRT) onto the screen. The electron beams are focused by a plate near the screen called a shadow mask. If this plate becomes unevenly magnetized by surrounding objects or simply the earth's magnetic field, it can cause discoloration on the screen. Therefore, CRT monitors often include a 'Degauss' command that resets the magnetic field when run. Since it is impossible to eliminate the magnetic charge inside the monitor, the degaussing process realigns or randomizes the magnetic field, which provides consistent colors across the screen.",
       "user_response": "None"
     }
-}  
+}
