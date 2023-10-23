@@ -1,7 +1,8 @@
 # Tiger Quiz Game
 
 
-This repository contains a Tiger Quiz Game built using HTML, CSS, JavaScript, and the Open Trivia Database. The app allows users to test their knowledge by answering quiz questions from various categories.
+This repository contains a Tiger Quiz Game built using HTML, CSS, JavaScript, and the Open Trivia Database. The app allows users to test their knowledge by answering quiz questions from various categories. </br>
+You can access the game using this link - https://main--incredible-crepe-f81e96.netlify.app/
 
 
 ## Features
@@ -44,6 +45,12 @@ To get started with the Quiz Web App, follow these steps:
 
 - The Quiz Web App utilizes the [Open Trivia Database API](https://opentdb.com) for fetching quiz questions.
 - Special thanks to the developers and contributors of the libraries and frameworks used in this project.
+
+## Copyrights
+This game is developed by -
+- Pranav Silimkhan (psilimk@g.clemson.edu)
+- Sakshi Sanghavi (sakshis@clemson.edu)
+- Mounika Vemparala (mvempar@clemson.edu)
 
 ---
 
