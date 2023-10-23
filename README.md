@@ -37,7 +37,7 @@ To get started with the Quiz Web App, follow these steps:
 2. Read each question carefully and select the answer you think is correct.
 3. Instant feedback will be provided after each answer.
 4. Continue answering questions until you reach the end of the quiz.
-6. At the end of the quiz, you will be presented with your score and would be asked to enter you name and also the option to restart or choose a different category.
+6. At the end of the quiz, you will be presented with your score and would be asked to enter you name and also the option to restart.
 
 
 ## Acknowledgements
