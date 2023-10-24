@@ -1,0 +1,65 @@
+Design and Development Reflection 
+
+
+It has been an interesting and educational experience for us to design and develop the Tiger Quiz Game. Through this project, we were introduced to the exciting field of web development, where we faced both obstacles and opportunities and developed an understanding for designing user-centered apps.
+
+Team members : 
+
+Sakshi Sanghavi - C18465665
+Pranav Pradosh Silimkhan- C18308103
+Mounika Vemparala- C49568892
+
+Source Code - https://github.com/pranavsilimkhan/web-game
+Live Link - https://main--incredible-crepe-f81e96.netlify.app/
+
+Challenges Faced:
+
+Our ability to solve problems was put to the test during the development process by a number of challenges:
+
+Integration of the API: One major obstacle was integrating the Open Trivia Database API. It took time and careful planning to learn the API structure, make requests, and handle the various answer data formats. Making sure that the questions were appropriate and properly structured was essential.
+
+Design of the User Interface: The application's visual component required more work than anticipated. It took constant work to strike a balance between usefulness and aesthetic. A great deal of attention to detail was needed in order to create an interface that is responsive, visually beautiful, and user-friendly while also being highly usable across a range of devices.Design of the User Interface: The application's visual component required more work than anticipated. It took constant work to strike a balance between usefulness and aesthetic. A great deal of attention to detail was needed in order to create an interface that is responsive, visually beautiful, and user-friendly while also being highly usable across a range of devices.
+
+Team Collaboration: Another challenge we encountered during the project was coordinating our team's schedules. Each of our three team members had distinct and often conflicting work and class schedules. This diversity, while enriching our team's perspectives, made the coordination of tasks and meetings challenging at times.
+
+
+What Worked:
+
+Random Question Generation: The decision to use the Open Trivia Database API for generating random questions worked exceptionally well. It added variety to each quiz, making the experience engaging and less predictable. This dynamic element made the game more interesting and enjoyable.
+
+User Feedback: Providing instant feedback after each question was a successful strategy. It allowed users to learn from their mistakes and feel a sense of progression. The interactivity created by this feature made the quiz more engaging and immersive.
+
+What Didn't Work:
+
+Initial Scope: We initially aimed for a feature-rich quiz app with multiplayer real time functionality and leaderboards. However, the complexity of these features quickly became apparent, and we decided to prioritize the core functionality and user experience. In the future, we hope to revisit these ideas.
+
+Limited User Interaction: While the quiz itself was engaging, there was a limited scope for social interaction and competition among users. In the future, adding features like leaderboards and a comment section for discussions could enhance the user experience and foster a sense of community.
+
+Lessons Learned:
+
+Start Simple: It's essential to begin with a simple, well-defined scope. It's better to have a fully functional core feature set than to attempt to include every idea and end up with a complex, unfinished project.
+
+User Experience Matters: The user interface and experience play a crucial role. A clean, intuitive design, responsive layout, and instant feedback greatly enhance user engagement. These aspects deserve considerable attention from the beginning.
+
+API Documentation: In-depth understanding and documentation of the API you're using are vital. Thoroughly documenting the API's structure and response formats can save a considerable amount of troubleshooting time.
+
+Planning and Iteration: Planning, wireframing, and prototyping proved invaluable in the design phase. Frequent iterations and playtesting were essential to identify and address issues. Continuously seeking user feedback helps in making the application more user-friendly.
+
+Community and Collaboration: This project highlighted the power of collaboration and the importance of an active development community. Leveraging libraries and frameworks and occasionally seeking assistance from fellow developers can save time, improve code quality, and stimulate creativity.
+
+Our experience on this project taught us the importance of teamwork in addition to web development. We came to understand that working together and assigning responsibilities to different members allowed us to take full advantage of their abilities, which improved the production and raised the game's overall quality.
+
+Technology Stack:
+
+Our Tiger Quiz Game was developed using a simple yet effective technology stack:
+
+HTML: HTML served as the foundation for structuring the web pages and content. It provided the essential structure and elements for presenting the quiz questions and user interface.
+
+CSS: CSS was employed for styling and enhancing the visual appearance of the application. It ensured that the game had a user-friendly and visually appealing design.
+
+JavaScript: JavaScript played a pivotal role in implementing the game's logic and interactivity. It allowed for instant feedback on user choices, dynamic scoring, and the overall smooth flow of the quiz.
+
+Open Trivia Database API: To provide a diverse range of quizzes, we relied on the Open Trivia Database API. This API facilitated the retrieval of quiz questions and categories, enabling users to enjoy a variety of quiz topics.
+
+
+In conclusion, the Tiger Quiz Game project was a remarkable learning experience in web development. It proved that even somewhat difficult ideas could be fulfilled with clear vision, hard work, and a strong commitment to user experience. The journey continues as we work to improve and develop the game to give players an even more entertaining and captivating experience. We would especially want to thank the Open Trivia Database API. Go Tigers!
